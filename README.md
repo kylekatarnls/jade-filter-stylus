@@ -1,3 +1,5 @@
+This repository now lives on https://github.com/pug-php/pug-filter-stylus
+
 # pug-filter-stylus
 
 This template:
